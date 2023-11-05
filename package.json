@@ -1,0 +1,26 @@
+{
+    "name": "react-native-train-nov-server",
+    "version": "1.0.0",
+    "description": "this is designed for nov server",
+    "homepage": "https://github.com/nakioct/react-native-train-nov-server",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-train-nov-server"
+    ],
+    "author": {
+      "name": "nakioct",
+      "email": "nakioct@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nakioct/react-native-train-nov-server.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
